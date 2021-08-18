@@ -12,7 +12,8 @@ Each method should in turn call the appropriate Sequelize method for the model
 **Links**
 [heroku](https://apiserverwijdan.herokuapp.com/)
 
-[PL]()
+[PL](https://github.com/wijdankhaled/api-server/pull/2)
 
 
 **UML**
+![](./uml.jpg)
